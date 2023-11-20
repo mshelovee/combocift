@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combo box cift sayilar -96", "combo box cift sayilar -96\combo box cift sayilar -96.csproj", "{710A3873-69BA-4B8F-BB21-D1580E7B6461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710A3873-69BA-4B8F-BB21-D1580E7B6461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710A3873-69BA-4B8F-BB21-D1580E7B6461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710A3873-69BA-4B8F-BB21-D1580E7B6461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710A3873-69BA-4B8F-BB21-D1580E7B6461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C0F284-943C-43DB-AD13-456A5DC48155}
+	EndGlobalSection
+EndGlobal
